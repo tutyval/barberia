@@ -16,8 +16,10 @@ PlayfairDisplay-Regular
 Roboto-Regular
 Roboto-Light
 
-La página deberá contener:
-	- Una barra de navegación
+La página deberá contendrá
+
+	 Una barra de navegación
+
 	- Un header
 	- Una entrada
 	- El perfil del autor del artículo
@@ -40,4 +42,4 @@ Recuerda que la página web deberá ser responsiva. Toma como referencia el sigu
 
 Luego debes enviar los cambios (vía push) y subir el link del repositorio a la sección correspondiente en la plataforma [empieza](https://empieza.desafiolatam.com "Desafío Latam").
 
-Mucha suerte!# barberia
+Mucha suerte!

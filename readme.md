@@ -18,7 +18,32 @@ Roboto-Light
 
 La página deberá contendrá
 
-	 Una barra de navegación
+	 Una barra de navegación con logo:
+navbar
+	<!-- Image and text -->
+	<nav class="navbar navbar-light bg-light">
+	<a class="navbar-brand" href="#">
+    <img src="/docs/4.1/assets/brand/bootstrap-solid.svg" width="30" height="30" class="d-inline-block align-top" alt="">
+    Bootstrap
+	</a>
+	</nav>
+nav
+	<ul class="nav justify-content-end">
+	<li class="nav-item">
+    <a class="nav-link active" href="#">Active</a>
+	</li>
+	<li class="nav-item">
+    <a class="nav-link" href="#">Link</a>
+	</li>
+	<li class="nav-item">
+    <a class="nav-link" href="#">Link</a>
+	</li>
+	<li class="nav-item">
+    <a class="nav-link disabled" href="#">Disabled</a>
+	</li>
+	</ul>
+
+
 
 	- Un header
 	- Una entrada

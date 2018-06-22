@@ -6,17 +6,17 @@ para la página usaremos el siguiente diseño
 para el celular el siguiente diseño
 ![sketch](C:\Users\Familia Guerrero\Documents\Susana\desafio latam\Proyectos\barberia\img/celular.jpg) 
 
+los colores para el diseño son
+para el celular el siguiente diseño
+![sketch](C:\Users\Familia Guerrero\Documents\Susana\desafio latam\Proyectos\barberia\colors/colors.png) 
 
-# Maquetación - Front End B-learning
 
-## Maquetando una entrada de blog
 
-### Instrucciones: 
+ 
 
 Recrea el siguiente [mockup](img/barbershop-desktop.png) de una entrada de blog utilizando todos los conceptos, herramientas y metodologías aprendidas en los cursos previos.
 
-![Mockup blog barbería](img/barbershop-mobile.png)
-![Mockup blog barbería](img/barbershop-desktop.png)
+
 
 ### Requsitos generales:
 

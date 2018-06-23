@@ -20,5 +20,8 @@
 	border-radius: 50%;
 	width: 70px;
 	height: 70px;
-	color: #ffffff;
+}
+.container-icons {
+	width: 10px;
+	height: 10px;
 }

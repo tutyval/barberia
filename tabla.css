@@ -10,4 +10,15 @@
 .jumbotron {
 	background:url(img/post-image.jpg) no-repeat; 
 	height:700px;
+	text-align: center;
+	color: #ffffff;
+}
+.btn {
+	margin-top: 300px;
+}
+.btn-icons {
+	border-radius: 50%;
+	width: 70px;
+	height: 70px;
+	color: #ffffff;
 }

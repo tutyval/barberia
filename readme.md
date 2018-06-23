@@ -75,7 +75,7 @@ con la firma en la que ira el perfil del autor del artículo en grillas
     </div>
 	</div>
 con una imagen del autor
-![imagen de fondo](img\naomi-thai.png)
+![imagen de fondo](img/naomi-thai.png)
 con margen redondo
 	<img src="img\naomi-thai.png" alt="..." class="rounded-circle">
 y parrafo 
@@ -101,15 +101,7 @@ un jumbotron con el logo
 	</div>
 	</div>
 
-Recuerda que la página web deberá ser responsiva. Toma como referencia el siguiente [mockup](img/barbershop-mobile.png) con la versión móvil.
 
-### Criterios de evaluación:
+el link de la pagina es 
 
-- Uso de dependencias específicas para la página web
-- Utilización de BEM en clases CSS
-- Buenas prácticas y uso de identado correcto
-- Uso de media queries
-- Uso de GIT para versionar el desafío
-- Uso de Github Pages
-- Creación del repositorio con el desafío
-- Creación de README.md con link de página web subida a Github Pages
+ https://tutyval.github.io/barberia/.

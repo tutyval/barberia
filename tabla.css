@@ -4,9 +4,10 @@
 .navbar-logo {
 	margin-left: 200px;
 }
-.nav-item {
-	text-color: :#ffffff;
-}
 .nav-item-fin {
 	margin-right: 200px;
+}
+.jumbotron {
+	background:url(img/post-image.jpg) no-repeat; 
+	height:700px;
 }

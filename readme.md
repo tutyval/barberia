@@ -53,7 +53,7 @@ Jumbotron
 	<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
 	</div>
 con una imagen de fondo
-![imagen de fondo](img\post-image.jpg)
+![imagen de fondo](img/post-image.jpg)
     
 		Una entrada con un container con parrafos 
 	<div class=container>

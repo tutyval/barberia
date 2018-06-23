@@ -4,7 +4,7 @@ para la página usaremos el siguiente diseño
 ![sketch](img/pagina.jpg) 
 
 para el celular el siguiente diseño
-![sketch](img\celular.jpg) 
+![sketch](img/celular.jpg) 
 
 los colores para el diseño son
 para el celular el siguiente diseño
